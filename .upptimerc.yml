@@ -5,10 +5,8 @@ repo: upptime # The name of this repository
 sites:
   - name: LU4ULT
     url: https://lu4ult.com
-  - name: Crianza HTTP
-    url: http://alecams.ddns.net/
-  - name: Crianza HTTPS
-    url: https://alecams.ddns.net/
+  - name: Crianza DDNS
+    url: alecams.ddns.net/
   - name: Afip 
     url: https://www.afip.gob.ar/landing/default.asp
   - name: Afip Login
