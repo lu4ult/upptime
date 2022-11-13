@@ -5,8 +5,10 @@ repo: upptime # The name of this repository
 sites:
   - name: LU4ULT
     url: https://lu4ult.com
-  - name: Crianza DDNS
-    url: alecams.ddns.net/
+  - name: Tenes stock?
+    url: https://friendly-bublanina-3c840e.netlify.app/
+  - name: Monitor Serie Web
+    url: https://playful-paletas-599515.netlify.app/
   - name: Afip 
     url: https://www.afip.gob.ar/landing/default.asp
   - name: Afip Login
