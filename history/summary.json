@@ -4,19 +4,19 @@
     "url": "https://lu4ult.com",
     "icon": "https://icons.duckduckgo.com/ip3/lu4ult.com.ico",
     "slug": "lu-4-ult",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 265,
-    "timeDay": 291,
-    "timeWeek": 287,
-    "timeMonth": 265,
-    "timeYear": 265,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.93%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.98%",
+    "time": 272,
+    "timeDay": 510,
+    "timeWeek": 342,
+    "timeMonth": 280,
+    "timeYear": 272,
     "dailyMinutesDown": {
-      "2023-01-03": 0
+      "2023-01-03": 15
     }
   },
   {
