@@ -4,9 +4,9 @@
     "url": "https://lu4ult.com",
     "icon": "https://icons.duckduckgo.com/ip3/lu4ult.com.ico",
     "slug": "lu-4-ult",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 287,
     "timeMonth": 265,
     "timeYear": 265,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-03": 0
+    }
   },
   {
     "name": "Tenes stock?",
