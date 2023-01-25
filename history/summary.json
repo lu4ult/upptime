@@ -25,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/friendly-bublanina-3c840e.netlify.app.ico",
     "slug": "tenes-stock",
     "status": "down",
-    "uptime": "92.64%",
+    "uptime": "92.24%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "24.02%",
-    "uptimeMonth": "82.52%",
-    "uptimeYear": "92.64%",
+    "uptimeWeek": "19.43%",
+    "uptimeMonth": "81.46%",
+    "uptimeYear": "92.24%",
     "time": 420,
     "timeDay": 159,
     "timeWeek": 131,
     "timeMonth": 162,
     "timeYear": 420,
     "dailyMinutesDown": {
-      "2023-01-25": 60,
+      "2023-01-25": 523,
       "2023-01-24": 1440,
       "2023-01-23": 1440,
       "2023-01-22": 1440,
@@ -71,10 +71,10 @@
     "url": "https://www.afip.gob.ar/landing/default.asp",
     "icon": "https://icons.duckduckgo.com/ip3/www.afip.gob.ar.ico",
     "slug": "afip",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1847,
@@ -82,16 +82,18 @@
     "timeWeek": 1828,
     "timeMonth": 1907,
     "timeYear": 1847,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-25": 1
+    }
   },
   {
     "name": "Afip Login",
     "url": "https://auth.afip.gob.ar/contribuyente_/login.xhtml",
     "icon": "https://icons.duckduckgo.com/ip3/auth.afip.gob.ar.ico",
     "slug": "afip-login",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -100,7 +102,9 @@
     "timeWeek": 1695,
     "timeMonth": 1670,
     "timeYear": 1626,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-25": 0
+    }
   },
   {
     "name": "Instagram",
