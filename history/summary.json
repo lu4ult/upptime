@@ -36,7 +36,7 @@
     "timeMonth": 118,
     "timeYear": 267,
     "dailyMinutesDown": {
-      "2023-05-10": 1314,
+      "2023-05-10": 1327,
       "2023-05-09": 1440,
       "2023-05-08": 1440,
       "2023-05-07": 1440,
@@ -219,7 +219,7 @@
     "url": "https://www.instagram.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.instagram.com.ico",
     "slug": "instagram",
-    "status": "up",
+    "status": "down",
     "uptime": "99.58%",
     "uptimeDay": "42.94%",
     "uptimeWeek": "90.88%",
