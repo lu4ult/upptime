@@ -36,7 +36,7 @@
     "timeMonth": 117,
     "timeYear": 267,
     "dailyMinutesDown": {
-      "2023-05-11": 47,
+      "2023-05-11": 58,
       "2023-05-10": 1440,
       "2023-05-09": 1440,
       "2023-05-08": 1440,
@@ -222,7 +222,7 @@
     "slug": "instagram",
     "status": "up",
     "uptime": "99.55%",
-    "uptimeDay": "39.38%",
+    "uptimeDay": "40.18%",
     "uptimeWeek": "90.11%",
     "uptimeMonth": "97.20%",
     "uptimeYear": "99.55%",
