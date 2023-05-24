@@ -4,9 +4,9 @@
     "url": "https://lu4ult.com",
     "icon": "https://icons.duckduckgo.com/ip3/lu4ult.com.ico",
     "slug": "lu-4-ult",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -16,6 +16,7 @@
     "timeMonth": 259,
     "timeYear": 264,
     "dailyMinutesDown": {
+      "2023-05-24": 0,
       "2023-01-03": 15
     }
   },
@@ -25,18 +26,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/friendly-bublanina-3c840e.netlify.app.ico",
     "slug": "tenes-stock",
     "status": "down",
-    "uptime": "35.16%",
+    "uptime": "35.10%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "35.16%",
+    "uptimeYear": "35.10%",
     "time": 256,
     "timeDay": 84,
     "timeWeek": 113,
     "timeMonth": 112,
     "timeYear": 256,
     "dailyMinutesDown": {
-      "2023-05-24": 292,
+      "2023-05-24": 825,
       "2023-05-23": 1440,
       "2023-05-22": 1440,
       "2023-05-21": 1440,
@@ -235,9 +236,9 @@
     "slug": "instagram",
     "status": "up",
     "uptime": "98.66%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "91.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "90.99%",
     "uptimeYear": "98.66%",
     "time": 389,
     "timeDay": 408,
@@ -245,13 +246,12 @@
     "timeMonth": 338,
     "timeYear": 389,
     "dailyMinutesDown": {
-      "2023-05-24": 8,
       "2023-05-16": 328,
       "2023-05-15": 608,
       "2023-05-14": 881,
       "2023-05-13": 985,
       "2023-05-12": 823,
-      "2023-05-11": 303
+      "2023-05-11": 319
     }
   }
 ]
