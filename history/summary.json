@@ -25,18 +25,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/friendly-bublanina-3c840e.netlify.app.ico",
     "slug": "tenes-stock",
     "status": "down",
-    "uptime": "34.66%",
+    "uptime": "34.65%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "34.66%",
+    "uptimeYear": "34.65%",
     "time": 254,
     "timeDay": 91,
     "timeWeek": 120,
     "timeMonth": 111,
     "timeYear": 254,
     "dailyMinutesDown": {
-      "2023-05-26": 1405,
+      "2023-05-27": 61,
+      "2023-05-26": 1440,
       "2023-05-25": 1440,
       "2023-05-24": 1440,
       "2023-05-23": 1440,
@@ -237,9 +238,9 @@
     "slug": "instagram",
     "status": "up",
     "uptime": "98.68%",
-    "uptimeDay": "98.28%",
-    "uptimeWeek": "99.60%",
-    "uptimeMonth": "91.03%",
+    "uptimeDay": "98.84%",
+    "uptimeWeek": "99.67%",
+    "uptimeMonth": "90.99%",
     "uptimeYear": "98.68%",
     "time": 387,
     "timeDay": 285,
@@ -247,14 +248,14 @@
     "timeMonth": 334,
     "timeYear": 387,
     "dailyMinutesDown": {
-      "2023-05-26": 25,
+      "2023-05-26": 17,
       "2023-05-24": 16,
       "2023-05-16": 328,
       "2023-05-15": 608,
       "2023-05-14": 881,
       "2023-05-13": 985,
       "2023-05-12": 823,
-      "2023-05-11": 259
+      "2023-05-11": 285
     }
   }
 ]
