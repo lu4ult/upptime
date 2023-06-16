@@ -4,9 +4,9 @@
     "url": "https://lu4ult.com",
     "icon": "https://icons.duckduckgo.com/ip3/lu4ult.com.ico",
     "slug": "lu-4-ult",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 284,
     "timeYear": 266,
     "dailyMinutesDown": {
+      "2023-06-16": 0,
       "2023-01-03": 15
     }
   },
@@ -36,7 +37,7 @@
     "timeMonth": 129,
     "timeYear": 244,
     "dailyMinutesDown": {
-      "2023-06-16": 921,
+      "2023-06-16": 929,
       "2023-06-15": 1440,
       "2023-06-14": 1440,
       "2023-06-13": 1440,
@@ -258,9 +259,9 @@
     "slug": "instagram",
     "status": "up",
     "uptime": "98.82%",
-    "uptimeDay": "98.02%",
-    "uptimeWeek": "99.12%",
-    "uptimeMonth": "99.68%",
+    "uptimeDay": "98.95%",
+    "uptimeWeek": "99.25%",
+    "uptimeMonth": "99.71%",
     "uptimeYear": "98.82%",
     "time": 408,
     "timeDay": 436,
@@ -268,7 +269,6 @@
     "timeMonth": 443,
     "timeYear": 408,
     "dailyMinutesDown": {
-      "2023-06-16": 13,
       "2023-06-15": 31,
       "2023-06-10": 44,
       "2023-05-30": 18,
@@ -279,7 +279,7 @@
       "2023-05-14": 881,
       "2023-05-13": 985,
       "2023-05-12": 823,
-      "2023-05-11": 93
+      "2023-05-11": 123
     }
   }
 ]
