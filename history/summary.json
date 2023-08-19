@@ -50,7 +50,7 @@
     "timeMonth": 113,
     "timeYear": 215,
     "dailyMinutesDown": {
-      "2023-08-19": 835,
+      "2023-08-19": 875,
       "2023-08-18": 1440,
       "2023-08-17": 1440,
       "2023-08-16": 1440,
@@ -291,11 +291,11 @@
     "url": "https://www.afip.gob.ar/landing/default.asp",
     "icon": "https://icons.duckduckgo.com/ip3/www.afip.gob.ar.ico",
     "slug": "afip",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "98.97%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 1662,
     "timeDay": 1455,
@@ -303,7 +303,7 @@
     "timeMonth": 1590,
     "timeYear": 1662,
     "dailyMinutesDown": {
-      "2023-08-19": 15,
+      "2023-08-19": 0,
       "2023-04-13": 23,
       "2023-03-03": 36,
       "2023-02-22": 18
