@@ -1,7 +1,7 @@
 url: https://www.afip.gob.ar/landing/default.asp
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-03-31T08:46:11.276Z
+status: up
+code: 200
+responseTime: 1068
+lastUpdated: 2024-03-31T10:26:53.063Z
 startTime: 2022-10-31T22:33:04.000Z
 generator: Upptime <https://github.com/upptime/upptime>
