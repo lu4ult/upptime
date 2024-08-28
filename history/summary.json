@@ -25,7 +25,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/friendly-bublanina-3c840e.netlify.app.ico",
     "slug": "tenes-stock",
     "status": "down",
-    "uptime": "10.33%",
+    "uptime": "10.32%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -36,7 +36,7 @@
     "timeMonth": 84,
     "timeYear": 92,
     "dailyMinutesDown": {
-      "2024-08-28": 63,
+      "2024-08-28": 757,
       "2024-08-27": 1440,
       "2024-08-26": 1440,
       "2024-08-25": 1440,
@@ -484,17 +484,19 @@
     "url": "https://www.instagram.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.instagram.com.ico",
     "slug": "instagram",
-    "status": "up",
+    "status": "down",
     "uptime": "99.62%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 497,
-    "timeDay": 264,
-    "timeWeek": 389,
-    "timeMonth": 476,
-    "timeYear": 537,
-    "dailyMinutesDown": {}
+    "timeDay": 185,
+    "timeWeek": 354,
+    "timeMonth": 464,
+    "timeYear": 536,
+    "dailyMinutesDown": {
+      "2024-08-28": 0
+    }
   }
 ]
