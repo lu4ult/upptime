@@ -36,7 +36,7 @@
     "timeMonth": 91,
     "timeYear": 91,
     "dailyMinutesDown": {
-      "2024-09-14": 584,
+      "2024-09-14": 592,
       "2024-09-13": 1440,
       "2024-09-12": 1440,
       "2024-09-11": 1440,
@@ -408,19 +408,19 @@
     "url": "https://playful-paletas-599515.netlify.app/",
     "icon": "https://icons.duckduckgo.com/ip3/playful-paletas-599515.netlify.app.ico",
     "slug": "monitor-serie-web",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.45%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 142,
-    "timeDay": 1644,
-    "timeWeek": 507,
-    "timeMonth": 215,
+    "time": 141,
+    "timeDay": 1130,
+    "timeWeek": 462,
+    "timeMonth": 212,
     "timeYear": 135,
     "dailyMinutesDown": {
-      "2024-09-14": 0
+      "2024-09-14": 8
     }
   },
   {
